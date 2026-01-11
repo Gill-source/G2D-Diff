@@ -1,1 +1,5 @@
-Reproduction and Expansion of Genotype-to-Drug Diffusion Model for Tailored Anti-Cancer Molecules
+# G2D-Diff Experiments
+
+Experimental code based on the G2D-Diff framework.
+
+Affiliation: Dongguk University (Undergraduate)
